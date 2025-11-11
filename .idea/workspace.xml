@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967e0668-5a0d-42ea-8bf9-94918ebb15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lista_duplamente_encadeada.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista_duplamente_encadeada_circular.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PB_Ciencia_da_Computacao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PB_Ciencia_da_Computacao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista_encadeada.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_encadeada.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempos_de_execucao/linux_tempos_execucao_N_2k.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempos_de_execucao/windows_tempos_execucao_N_2k.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_duplamente_encadeada.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_duplamente_encadeada.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_duplamente_encadeada_circular.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_duplamente_encadeada_circular.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_encadeada_circular.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_encadeada_circular.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +68,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -86,7 +82,6 @@
       <updated>1762846458877</updated>
       <workItem from="1762846459863" duration="8725000" />
       <workItem from="1762856551680" duration="1711000" />
-      <workItem from="1762858797521" duration="17626000" />
     </task>
     <servers />
   </component>
