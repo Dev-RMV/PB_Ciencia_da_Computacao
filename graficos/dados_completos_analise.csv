@@ -1,0 +1,61 @@
+plataforma,estrutura_dados,operacao,tempo_execucao_ms,tempo_execucao_s
+linux,Lista Duplamente Encadeada,buscar,133.7800025939932,0.1337800025939932
+linux,Lista Duplamente Encadeada,buscar_reverso,138.80395889282133,0.13880395889282132
+linux,Lista Duplamente Encadeada,inserir_fim,2.091169357298778,0.002091169357298778
+linux,Lista Duplamente Encadeada,inserir_inicio,1.510381698607542,0.001510381698607542
+linux,Lista Duplamente Encadeada,inserir_posicao,38.27881813049222,0.03827881813049222
+linux,Lista Duplamente Encadeada,remover_fim,2.117395400999988,0.002117395400999988
+linux,Lista Duplamente Encadeada,remover_inicio,1.8658638000477852,0.0018658638000477851
+linux,Lista Duplamente Encadeada,remover_posicao,10.810136795043002,0.010810136795043002
+linux,Lista Duplamente Encadeada Circular,buscar,170.97115516662504,0.17097115516662503
+linux,Lista Duplamente Encadeada Circular,buscar_reverso,179.26836013793854,0.17926836013793854
+linux,Lista Duplamente Encadeada Circular,inserir_fim,2.061128616331981,0.0020611286163319813
+linux,Lista Duplamente Encadeada Circular,inserir_inicio,1.470565795897535,0.001470565795897535
+linux,Lista Duplamente Encadeada Circular,inserir_posicao,57.46769905090238,0.057467699050902384
+linux,Lista Duplamente Encadeada Circular,remover_fim,2.5851726531971493,0.0025851726531971493
+linux,Lista Duplamente Encadeada Circular,remover_inicio,2.3441314697255082,0.0023441314697255082
+linux,Lista Duplamente Encadeada Circular,remover_posicao,12.803792953490293,0.012803792953490293
+linux,Lista Encadeada,buscar,134.159803390502,0.13415980339050199
+linux,Lista Encadeada,inserir_fim,2.256393432616187,0.002256393432616187
+linux,Lista Encadeada,inserir_inicio,2.643585205077099,0.0026435852050770993
+linux,Lista Encadeada,inserir_posicao,97.8593826293936,0.09785938262939359
+linux,Lista Encadeada,remover_fim,130.46145439147858,0.13046145439147858
+linux,Lista Encadeada,remover_inicio,2.081155776976498,0.0020811557769764982
+linux,Lista Encadeada,remover_posicao,27.647018432616253,0.027647018432616254
+linux,Lista Encadeada Circular,buscar,172.78718948364164,0.17278718948364163
+linux,Lista Encadeada Circular,inserir_fim,1.9519329071034102,0.0019519329071034102
+linux,Lista Encadeada Circular,inserir_inicio,1.401901245116341,0.0014019012451163412
+linux,Lista Encadeada Circular,inserir_posicao,118.17216873168853,0.11817216873168852
+linux,Lista Encadeada Circular,remover_fim,155.69686889648344,0.15569686889648343
+linux,Lista Encadeada Circular,remover_inicio,2.4626255035390083,0.002462625503539008
+linux,Lista Encadeada Circular,remover_posicao,29.211044311522517,0.029211044311522518
+windows,Lista Duplamente Encadeada,buscar,234.91263389587309,0.23491263389587308
+windows,Lista Duplamente Encadeada,buscar_reverso,241.79863929748444,0.24179863929748444
+windows,Lista Duplamente Encadeada,inserir_fim,3.898620605467692,0.0038986206054676923
+windows,Lista Duplamente Encadeada,inserir_inicio,3.56006622314334,0.0035600662231433404
+windows,Lista Duplamente Encadeada,inserir_posicao,58.10594558715726,0.05810594558715726
+windows,Lista Duplamente Encadeada,remover_fim,4.357576370238427,0.004357576370238428
+windows,Lista Duplamente Encadeada,remover_inicio,4.1487216949453565,0.004148721694945357
+windows,Lista Duplamente Encadeada,remover_posicao,24.63960647582917,0.02463960647582917
+windows,Lista Duplamente Encadeada Circular,buscar,287.6071929931631,0.2876071929931631
+windows,Lista Duplamente Encadeada Circular,buscar_reverso,298.8455295562735,0.2988455295562735
+windows,Lista Duplamente Encadeada Circular,inserir_fim,4.169464111327042,0.0041694641113270425
+windows,Lista Duplamente Encadeada Circular,inserir_inicio,3.5989284515368873,0.0035989284515368872
+windows,Lista Duplamente Encadeada Circular,inserir_posicao,58.98594856262113,0.058985948562621134
+windows,Lista Duplamente Encadeada Circular,remover_fim,4.416465759276554,0.0044164657592765545
+windows,Lista Duplamente Encadeada Circular,remover_inicio,4.2910575866690674,0.0042910575866690675
+windows,Lista Duplamente Encadeada Circular,remover_posicao,24.631977081297897,0.0246319770812979
+windows,Lista Encadeada,buscar,216.88175201415922,0.2168817520141592
+windows,Lista Encadeada,inserir_fim,3.567934036253642,0.003567934036253642
+windows,Lista Encadeada,inserir_inicio,3.1845569610583513,0.0031845569610583512
+windows,Lista Encadeada,inserir_posicao,100.52633285522367,0.10052633285522367
+windows,Lista Encadeada,remover_fim,212.2042179107657,0.21220421791076569
+windows,Lista Encadeada,remover_inicio,3.741025924681506,0.003741025924681506
+windows,Lista Encadeada,remover_posicao,39.91580009460357,0.03991580009460357
+windows,Lista Encadeada Circular,buscar,286.78107261657624,0.28678107261657626
+windows,Lista Encadeada Circular,inserir_fim,3.758192062376762,0.0037581920623767622
+windows,Lista Encadeada Circular,inserir_inicio,3.295421600340564,0.003295421600340564
+windows,Lista Encadeada Circular,inserir_posicao,106.00018501281647,0.10600018501281647
+windows,Lista Encadeada Circular,remover_fim,216.6759967803946,0.2166759967803946
+windows,Lista Encadeada Circular,remover_inicio,4.991531372069438,0.004991531372069437
+windows,Lista Encadeada Circular,remover_posicao,40.35282135009672,0.04035282135009672

@@ -1,0 +1,9 @@
+operacao,melhor_estrutura_linux,tempo_linux_ms,melhor_estrutura_windows,tempo_windows_ms
+inserir_inicio,Lista Encadeada Circular,1.401901245116341,Lista Encadeada,3.1845569610583513
+inserir_fim,Lista Encadeada Circular,1.9519329071034102,Lista Encadeada,3.567934036253642
+buscar,Lista Duplamente Encadeada,133.7800025939932,Lista Encadeada,216.88175201415922
+inserir_posicao,Lista Duplamente Encadeada,38.27881813049222,Lista Duplamente Encadeada,58.10594558715726
+remover_inicio,Lista Duplamente Encadeada,1.8658638000477852,Lista Encadeada,3.741025924681506
+remover_fim,Lista Duplamente Encadeada,2.117395400999988,Lista Duplamente Encadeada,4.357576370238427
+remover_posicao,Lista Duplamente Encadeada,10.810136795043002,Lista Duplamente Encadeada Circular,24.631977081297897
+buscar_reverso,Lista Duplamente Encadeada,138.80395889282133,Lista Duplamente Encadeada,241.79863929748444
