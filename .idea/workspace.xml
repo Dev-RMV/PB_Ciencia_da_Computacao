@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967e0668-5a0d-42ea-8bf9-94918ebb15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/explorador_de_dados.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PB_Ciencia_da_Computacao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PB_Ciencia_da_Computacao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_duplamente_encadeada.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_duplamente_encadeada.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_duplamente_encadeada_circular.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_duplamente_encadeada_circular.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_encadeada.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_encadeada.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_encadeada_circular.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lista_encadeada_circular.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,6 +54,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.teste_pc.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -83,6 +86,10 @@
       <workItem from="1762846459863" duration="8725000" />
       <workItem from="1762856551680" duration="1711000" />
       <workItem from="1762938382909" duration="4064000" />
+      <workItem from="1762984829463" duration="935000" />
+      <workItem from="1763058191328" duration="24000" />
+      <workItem from="1763058222100" duration="339000" />
+      <workItem from="1763126448106" duration="5939000" />
     </task>
     <servers />
   </component>
@@ -149,5 +156,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PB_Ciencia_da_Computacao$teste_pc.coverage" NAME="teste_pc Coverage Results" MODIFIED="1762984926412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
